@@ -1,2 +1,2 @@
 # anju-demo
-this is the demo for git.
+this is the demo for gi.
