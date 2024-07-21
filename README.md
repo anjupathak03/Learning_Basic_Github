@@ -1,2 +1,1 @@
-
-this is the demo for gi.
+Basic code for learning Github
